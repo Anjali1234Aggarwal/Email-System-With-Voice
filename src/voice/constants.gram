@@ -1,0 +1,6 @@
+#JSGF V1.0;
+/**
+ * JSGF Grammar for Hello World example
+ */
+grammar constants;
+public <greet> = (close all emails|open emails|first email|next email|last email);
